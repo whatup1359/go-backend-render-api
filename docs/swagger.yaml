@@ -527,7 +527,7 @@ definitions:
     required:
     - transaction_id
     type: object
-host: go-backend-render-api-awlh.onrender.com
+host: go-backend-render-api-kn8f.onrender.com
 info:
   contact:
     email: support@example.com

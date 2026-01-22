@@ -15,7 +15,7 @@
         },
         "version": "1.0.0"
     },
-    "host": "go-backend-render-api-awlh.onrender.com",
+    "host": "go-backend-render-api-kn8f.onrender.com",
     "basePath": "/api/v1",
     "paths": {
         "/auth/admin/register": {
